@@ -1,9 +1,11 @@
 # DSA210-Project
 
 
-**Project Overview**
+**Project Idea**
 
 The idea of my project is to focus on analyzing the performance and engagement metrics of my TikTok account (@studylabaii) that I manage as part of a social media marketing campaign. By studying content trends, audience behavior, and engagement patterns, the project aims to provide more insights to improve marketing strategies and maximize the account's reach.
+
+What factors contribute the most to audience engagement and performance on TikTok, and how can these insights be used to optimize social media marketing strategies?
 
 ---
 
