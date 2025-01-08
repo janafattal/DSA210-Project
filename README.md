@@ -5,6 +5,10 @@
 
 The idea of my project is to focus on analyzing the performance and engagement metrics of my TikTok account (@studylabaii) that I manage as part of a social media marketing campaign. By studying content trends, audience behavior, and engagement patterns, the project aims to provide more insights to improve marketing strategies and maximize the account's reach.
 
+Null Hypothesis: The day of the week has no significant effect on video performance metrics (views, likes, shares, comments)
+
+Alternate Hypothesis: The day of the week has a significant effect on video performance metrics
+
 ---
 
 ## Data Source
