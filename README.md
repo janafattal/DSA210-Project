@@ -5,9 +5,9 @@
 
 The idea of my project is to focus on analyzing the performance and engagement metrics of my TikTok account (@studylabaii) that I manage as part of a social media marketing campaign. By studying content trends, audience behavior, and engagement patterns, the project aims to provide more insights to help me identify the influence of posting day and time on key performance metrics to improve marketing strategies and maximize the account's reach.
 
-**Null Hypothesis:** The day of the week has no significant effect on video performance metrics (views, likes, shares, comments)
+**Null Hypothesis:** The day of the week has no significant effect on my video performance metrics (views, likes, shares, comments)
 
-**Alternate Hypothesis:** The day of the week has a significant effect on video performance metrics
+**Alternate Hypothesis:** The day of the week has a significant effect on my video performance metrics
 
 ---
 
@@ -88,8 +88,9 @@ No strong associations were found between the day of the week and performance me
 - **Future Analysis**: Include variables like audience demographics, video duration, and hashtag usage to refine results.
 - **Strategic Planning**: Conduct A/B testing on different content types to validate trends.
 
+The findings underscore the importance of exploring other variables, such as content type, hashtags, and audience demographics, to optimize posting strategies. Future work should focus on incorporating these variables and conducting A/B testing to validate trends and refine marketing approaches. By leveraging these insights, I can develop more targeted strategies to maximize my account's reach and engagement.
+
 ---
 
 ### **Conclusion**  
-This analysis reveals limited evidence supporting the influence of posting days on my TikTok's performance metrics. While there were observable trends, such as higher engagement on weekends and consistently high video views on Tuesdays, the statistical tests revealed no significant differences. This suggests that the day of the week alone is not a critical factor in driving engagement.
-The findings underscore the importance of exploring other variables, such as content type, hashtags, and audience demographics, to optimize posting strategies. Future work should focus on incorporating these variables and conducting A/B testing to validate trends and refine marketing approaches. By leveraging these insights, I can develop more targeted strategies to maximize my account's reach and engagement.
+In conclusion, I fail to reject the null hypothesis that the day of the week has no significant effect on my video performance metrics. The analysis does not show the influence of posting days on my TikTok's performance metrics. While there were observable trends, such as higher engagement on weekends and consistently high video views on Tuesdays, the statistical tests revealed no significant differences. This suggests that the day of the week alone is not a critical factor in driving engagement.
